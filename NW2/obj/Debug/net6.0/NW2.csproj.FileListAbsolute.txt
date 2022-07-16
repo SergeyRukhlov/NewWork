@@ -1,0 +1,15 @@
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/bin/Debug/net6.0/NW2
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/bin/Debug/net6.0/NW2.deps.json
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/bin/Debug/net6.0/NW2.runtimeconfig.json
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/bin/Debug/net6.0/NW2.dll
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/bin/Debug/net6.0/NW2.pdb
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/obj/Debug/net6.0/NW2.csproj.AssemblyReference.cache
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/obj/Debug/net6.0/NW2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/obj/Debug/net6.0/NW2.AssemblyInfoInputs.cache
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/obj/Debug/net6.0/NW2.AssemblyInfo.cs
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/obj/Debug/net6.0/NW2.csproj.CoreCompileInputs.cache
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/obj/Debug/net6.0/NW2.dll
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/obj/Debug/net6.0/refint/NW2.dll
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/obj/Debug/net6.0/NW2.pdb
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/obj/Debug/net6.0/NW2.genruntimeconfig.cache
+/Users/Sergey/Documents/Учеба С#/NewWork/NW2/obj/Debug/net6.0/ref/NW2.dll
